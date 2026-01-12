@@ -1,12 +1,10 @@
 📊 Vrinda Store Annual Report Dashboard (Excel)
 
 🔍Project Overview
-
 This project presents a dynamic and interactive Annual Sales Dashboard (2022) for Vrinda Store using Microsoft Excel. 
 The dashboard transforms raw sales data into meaningful visual insights to support business decision-making and performance tracking.
 
 🛠️ Tools & Technologies
-
 ⦁	Microsoft Excel
 ⦁	Advanced Pivot Tables
 ⦁	Interactive Pivot Charts
@@ -16,7 +14,6 @@ The dashboard transforms raw sales data into meaningful visual insights to suppo
 ⦁	Dashboard UI Design
 
 📈 Key Analytics Modules
-
 1. Orders vs Sales Trend
      Monthly comparison of total revenue and number of orders
      Helps identify peak and low-performing months
@@ -42,7 +39,6 @@ The dashboard transforms raw sales data into meaningful visual insights to suppo
      Amazon leads with 35% contribution
 
 🎯 Business Value
-
 ⦁	Enables data-driven decisions
 ⦁	Improves understanding of customer demographics
 ⦁	Identifies high-performing regions and platforms
@@ -50,7 +46,6 @@ The dashboard transforms raw sales data into meaningful visual insights to suppo
 ⦁	Reduces manual reporting through automation
 
 🚀 Skills Highlighted
-
 ⦁	Data Visualization
 ⦁	Business Intelligence Reporting
 ⦁	Excel Dashboard Development
@@ -60,20 +55,16 @@ The dashboard transforms raw sales data into meaningful visual insights to suppo
 ⦁	Presentation & Storytelling with Data
 
 📥 How to Use
-
 ⦁	Download the Excel file from this repository.
 ⦁	Open in MS Excel.
 ⦁	Use slicers to filter by Month, Category, and Channel.
 ⦁	Explore visual insights and trends instantly.
 
-
 👩‍💻 Author
-Jagruti Pardhe 
-B.E. in Computer Science  
+Jagruti Pardhe
+B.E. in Computer Science
 Learning: SQL | Excel | Power BI | Python
 Aspiring Data Analyst | Business Analyst | MIS Executive
 
 ⭐ If you like this project, don’t forget to star the repository ⭐
-
-
 
